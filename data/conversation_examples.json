@@ -1,0 +1,22 @@
+[
+  {
+    "user": "I know Java and SQL and enjoy backend development. What career could fit?",
+    "intent": "recommendations"
+  },
+  {
+    "user": "I like AI but I am not comfortable with advanced mathematics yet.",
+    "intent": "profile"
+  },
+  {
+    "user": "Can you suggest a beginner project for a data analyst?",
+    "intent": "projects"
+  },
+  {
+    "user": "How do data analysis and data science differ?",
+    "intent": "compare"
+  },
+  {
+    "user": "Hello",
+    "intent": "greeting"
+  }
+]
